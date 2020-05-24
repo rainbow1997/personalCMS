@@ -1,0 +1,46 @@
+<codestructure version="5.13">
+<phptree>
+<treenode node="Article.php;PHP:PHP Include;C:\xampp\htdocs\Santa\classes\InsertArticle.php;f14;1;25;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DataBase.php;PHP:PHP Include;C:\xampp\htdocs\Santa\classes\index.php;f14;1;26;1;;C:\xampp\htdocs\Santa\classes\InsertArticle.php;f14;2;26;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="InsertArticle.php;PHP:PHP Include;C:\xampp\htdocs\Santa\classes\index.php;f14;2;31;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Article;PHP:Class Name;C:\xampp\htdocs\Santa\classes\Articles.php;f0;1;1;49;;C:\xampp\htdocs\Santa\classes\Article.php;f0;1;1;64;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Codelobster0.php;f1;10;2;14;;C:\xampp\htdocs\Santa\classes\Articles.php;f1;10;2;20;;C:\xampp\htdocs\Santa\classes\Article.php;f1;12;2;24;;C:\xampp\htdocs\Santa\classes\Article.php;f1;12;2;24;;;;vpos;;v;;r;;d1,13;;b0,0;;mtitle;;psubject;;pbarchasb;;ptext;;ptimeOfPublish;;pcansee;;pid;;p">
+</treenode>
+<treenode node="getBarchasb;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;30;2;33;;C:\xampp\htdocs\Santa\classes\Article.php;f1;45;2;48;;;;vpos;;v;;r;;d1,46;;b0,0;;m">
+</treenode>
+<treenode node="getCanSee;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;43;2;46;;C:\xampp\htdocs\Santa\classes\Article.php;f1;58;2;61;;;;vpos;;v;;r;;d1,59;;b0,0;;m">
+</treenode>
+<treenode node="getSubject;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;25;2;29;;C:\xampp\htdocs\Santa\classes\Article.php;f1;40;2;44;;;;vpos;;v;;r;;d1,41;;b0,0;;m">
+</treenode>
+<treenode node="getText;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;34;2;37;;C:\xampp\htdocs\Santa\classes\Article.php;f1;49;2;52;;;;vpos;;v;;r;;d1,50;;b0,0;;m">
+</treenode>
+<treenode node="getTimeOfPublish;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;38;2;42;;C:\xampp\htdocs\Santa\classes\Article.php;f1;53;2;57;;;;vpos;;v;;r;;d1,54;;b0,0;;m">
+</treenode>
+<treenode node="getTitle;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Articles.php;f1;21;2;24;;C:\xampp\htdocs\Santa\classes\Article.php;f1;36;2;39;;;;vpos;;v;;r;;d1,37;;b0,0;;m">
+</treenode>
+<treenode node="showArticle;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Article.php;f1;25;2;35;;;;vpos;;v;;r;;d1,26;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="DataBase;PHP:Class Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f0;1;1;44;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f1;8;2;14;;;;vpos;;v;;r;;d1,9;;b0,0;;m">
+</treenode>
+<treenode node="closeDataBase;PHP:Function Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f2;34;2;37;;;;vpos;;v;;r;;d1,35;;b0,0;;m">
+</treenode>
+<treenode node="connectDataBase;PHP:Function Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f2;15;2;22;;;;vpos;;v;;r;;d1,16;;b0,0;;m">
+</treenode>
+<treenode node="getFetchData;PHP:Function Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f2;38;2;42;;;;vpos;;v;;r;;d1,39;;b0,0;;mquery;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\xampp\htdocs\Santa\classes\DataBase.php;f2;23;2;33;;;;vpos;;v;;r;;d1,24;;b0,0;;mquery;;p">
+</treenode>
+</treenode>
+<treenode node="InsertArticle;PHP:Class Name;C:\xampp\htdocs\Santa\classes\InsertArticle.php;f0;4;1;24;;;;vpos;;vArticle;;c;;r;;d0,5;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Codelobster0.php;f1;6;2;12;;C:\xampp\htdocs\Santa\classes\InsertArticle.php;f1;7;2;14;;;;vpos;;v;;r;;d1,8;;b0,0;;mtitle;;psubject;;pbarchasb;;ptext;;ptimeOfPublish;;pcansee;;p">
+</treenode>
+<treenode node="insertArticle;PHP:Function Name;C:\xampp\htdocs\Santa\classes\Codelobster0.php;f1;13;2;19;;C:\xampp\htdocs\Santa\classes\InsertArticle.php;f1;15;2;23;;;;vpos;;v;;r;;d1,16;;b0,0;;m">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
